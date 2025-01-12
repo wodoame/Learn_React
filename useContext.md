@@ -1,4 +1,4 @@
-Sure! The `useContext` hook in React is a powerful tool for managing state and passing data through the component tree without having to pass props down manually at every level. Here’s a quick overview:
+The `useContext` hook in React is a powerful tool for managing state and passing data through the component tree without having to pass props down manually at every level. Here’s a quick overview:
 
 ### What is `useContext`?
 
